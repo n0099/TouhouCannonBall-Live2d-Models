@@ -1,0 +1,589 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 0.02,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 52,
+    "TotalSegmentCount": 53,
+    "TotalPointCount": 53,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamAngleX",
+      "Segments": [
+        0,
+        -25,
+        0,
+        0.02,
+        -25
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamAngleY",
+      "Segments": [
+        0,
+        16,
+        0,
+        0.02,
+        16
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamAngleZ",
+      "Segments": [
+        0,
+        3,
+        0,
+        0.02,
+        3
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeBallX",
+      "Segments": [
+        0,
+        0.256,
+        0,
+        0.02,
+        0.256
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamEyeBallY",
+      "Segments": [
+        0,
+        0.074,
+        0,
+        0.02,
+        0.074
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBodyAngleX",
+      "Segments": [
+        0,
+        -7,
+        0,
+        0.02,
+        -7
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBodyAngleY",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBodyAngleZ",
+      "Segments": [
+        0,
+        -1.36,
+        0,
+        0.02,
+        -1.36
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBodyWeight",
+      "Segments": [
+        0,
+        8,
+        0,
+        0.02,
+        8
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBodyFrontAndBack",
+      "Segments": [
+        0,
+        7,
+        0,
+        0.02,
+        7
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftShoulderUp",
+      "Segments": [
+        0,
+        18,
+        0,
+        0.02,
+        18
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamArmLUp",
+      "Segments": [
+        0,
+        -1.84,
+        0,
+        0.02,
+        -1.84
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamArmLFrontBack",
+      "Segments": [
+        0,
+        5,
+        0,
+        0.02,
+        5
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftArmRotation",
+      "Segments": [
+        0,
+        56.08,
+        0,
+        0.02,
+        56.08
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftArmFrontRotation",
+      "Segments": [
+        0,
+        2.82,
+        0,
+        0.02,
+        2.82
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftWristRotation",
+      "Segments": [
+        0,
+        12.32,
+        0,
+        0.02,
+        12.32
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftHandFrill",
+      "Segments": [
+        0,
+        0.342,
+        0,
+        0.02,
+        0.342
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftHandGrip",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftArmOrder",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.02,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainLOrder",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.02,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainLX",
+      "Segments": [
+        0,
+        6,
+        0,
+        0.02,
+        6
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainLRotation",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainLShake",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightShoulderUp",
+      "Segments": [
+        0,
+        18,
+        0,
+        0.02,
+        18
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamArmRUp",
+      "Segments": [
+        0,
+        -2.4,
+        0,
+        0.02,
+        -2.4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamArmRFrontBack",
+      "Segments": [
+        0,
+        5,
+        0,
+        0.02,
+        5
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightArmRotation",
+      "Segments": [
+        0,
+        54.48,
+        0,
+        0.02,
+        54.48
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightArmFrontRotation",
+      "Segments": [
+        0,
+        2.28,
+        0,
+        0.02,
+        2.28
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightWristRotation",
+      "Segments": [
+        0,
+        11.34,
+        0,
+        0.02,
+        11.34
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightHandFrill",
+      "Segments": [
+        0,
+        0.39,
+        0,
+        0.02,
+        0.39
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightHandGrip",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRightArmOrder",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.02,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainROrder",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.02,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainRX",
+      "Segments": [
+        0,
+        -4,
+        0,
+        0.02,
+        -4
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainRRotation",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamChainRShake",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRighttArmShake",
+      "Segments": [
+        0,
+        13.38,
+        0,
+        0.02,
+        13.38
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamLeftArmShake",
+      "Segments": [
+        0,
+        18.96,
+        0,
+        0.02,
+        18.96
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand7",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand6",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand5",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand4",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand3",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand2",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.02,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartRghitHand1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand7",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand6",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand5",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand4",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand3",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand2",
+      "Segments": [
+        0,
+        1,
+        0,
+        0.02,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartLeftHand1",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.02,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

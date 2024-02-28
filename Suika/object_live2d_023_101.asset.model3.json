@@ -1,0 +1,145 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "object_live2d_023_101.asset.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "object_live2d_023_101.asset.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/LIVE2D_023_101_25.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_54.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_21.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_33.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_53.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_44.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_12.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_55.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_10.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_45.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_35.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_43.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_04.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_20.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_42.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_41.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_02.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_03.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_06.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_23.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_05.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_52.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_08.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_40.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_24.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_22.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_14.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_11.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_13.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_50.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_51.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_01.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_34.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_32.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_31.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_15.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_30.motion3.json"
+        },
+        {
+          "File": "motions/LIVE2D_023_101_07.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
